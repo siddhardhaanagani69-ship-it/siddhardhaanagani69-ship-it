@@ -15,8 +15,12 @@ I'm working toward a full-time **AI Engineer** role — shipping systems that go
 - 🤖 Reinforcement-learning agents benchmarked across multiple algorithms
 - ⚙️ Automated record-matching and reporting pipelines (Python + RapidFuzz) used daily by analysts at UH's College of Medicine
 
+### Projects
+- 💊 [**RxScanner**](https://github.com/siddhardhaanagani69-ship-it/RxScanner) — SwiftUI app that scans a prescription label and explains it: on-device OCR → RAG over a drug database → LLM, no internet round-trip, no made-up medical claims
+- ✅ [**RetroHabits**](https://github.com/siddhardhaanagani69-ship-it/RetroHabits) — native SwiftUI habit & routine tracker that merges Canvas assignments and your iPhone calendar into one agenda, streaks included
+- 🧭 [**navigation**](https://github.com/siddhardhaanagani69-ship-it/navigation) — robot navigation / route-finding
+
 ### Currently building
-- 🧭 [`navigation`](https://github.com/siddhardhaanagani69-ship-it/navigation) — a robot navigation / route-finding project
 - 🌐 A [portfolio site](https://siddhardhaanagani69-ship-it.github.io/.github.io/) (yes, it's handcrafted, yes it has a theme)
 
 ### Toolbox
