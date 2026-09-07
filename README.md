@@ -21,7 +21,7 @@ I'm working toward a full-time **AI Engineer** role — shipping systems that go
 - 🧭 [**navigation**](https://github.com/siddhardhaanagani69-ship-it/navigation) — robot navigation / route-finding
 
 ### Currently building
-- 🌐 A [portfolio site](https://siddhardhaanagani69-ship-it.github.io/.github.io/) (yes, it's handcrafted, yes it has a theme)
+- 🌐 A [portfolio site](https://siddhardhaanagani69-ship-it.github.io/) (yes, it's handcrafted, yes it has a theme)
 
 ### Toolbox
 <p>
@@ -36,6 +36,6 @@ I'm working toward a full-time **AI Engineer** role — shipping systems that go
 </p>
 
 ### Let's connect
-📫 sanagani@cougarnet.uh.edu · 💼 [LinkedIn](https://linkedin.com/in/siddhardha-anagani) · 🌐 [portfolio](https://siddhardhaanagani69-ship-it.github.io/.github.io/)
+📫 sanagani@cougarnet.uh.edu · 💼 [LinkedIn](https://linkedin.com/in/siddhardha-anagani) · 🌐 [portfolio](https://siddhardhaanagani69-ship-it.github.io/)
 
 <p><i>Next season: your team's opening credits.</i></p>
