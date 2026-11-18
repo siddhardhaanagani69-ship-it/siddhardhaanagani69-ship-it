@@ -1,74 +1,71 @@
 <p align="center">
-  <img src="./assets/keynote.svg" width="100%" alt="Siddhardha Anagani. Building intelligence. Making it useful. Computer vision, LLMs, and native apps." />
+  <img src="./assets/keynote.svg" width="100%" alt="Siddhardha Anagani — AI meets everyday life. Computer vision, LLMs and RAG, native iOS." />
 </p>
 
 <p align="center">
-  <strong>Working toward AI engineering · M.Eng. Data Science at the University of Houston</strong>
+  <strong>AI / ML &nbsp;·&nbsp; SwiftUI &nbsp;·&nbsp; M.Eng. Data Science @ University of Houston</strong>
 </p>
 
 <p align="center">
-  <a href="#selected-work">Explore my work</a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/siddhardha-anagani">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:sanagani@cougarnet.uh.edu">Get in touch</a>
+  <a href="https://linkedin.com/in/siddhardha-anagani">LinkedIn ↗</a> &nbsp;&nbsp;/&nbsp;&nbsp;
+  <a href="mailto:sanagani@cougarnet.uh.edu">Email ↗</a> &nbsp;&nbsp;/&nbsp;&nbsp;
+  <a href="#selected-work">Selected work ↓</a>
 </p>
 
 <br>
 
-## A little context. A lot of building.
+I’m **Siddhardha**. I build computer-vision systems, explore language models, and make native apps for everyday problems. My work spans factory safety detection, research, and tools used by university analysts.
 
-I build across **computer vision, LLM applications, and native iOS** — from detecting safety violations in factory camera feeds to turning everyday workflows into useful software. Currently going deeper on **RAG and reinforcement learning**, while working toward a full-time AI Engineer role.
-
-| Vision at the edge | Research into practice | Tools people use |
-| :--- | :--- | :--- |
-| Real-time factory safety detection with **YOLOv8, Faster R-CNN & OpenVINO** | **1 published IEEE paper** and reinforcement-learning agent benchmarks | **Python + RapidFuzz** record matching and reporting used daily by UH College of Medicine analysts |
+**Currently:** exploring RAG and reinforcement learning · seeking full-time **AI Engineer** opportunities.
 
 <br>
 
 ## Selected work
 
-### 01 &nbsp; RxScanner
-**From prescription label to clearer information.**
+<table>
+<tr>
+<td valign="top" width="50%">
+<sub>01 / APPLIED AI</sub>
+<h3><a href="https://github.com/siddhardhaanagani69-ship-it/RxScanner">RxScanner ↗</a></h3>
+<p>Scan a prescription label.<br>Make the information easier to understand.</p>
+<p>A native app project connecting OCR with retrieval-augmented explanations.</p>
+<sub><b>SWIFTUI &nbsp; / &nbsp; OCR &nbsp; / &nbsp; RAG</b></sub>
+</td>
+<td valign="top" width="50%">
+<sub>02 / NATIVE iOS</sub>
+<h3><a href="https://github.com/siddhardhaanagani69-ship-it/RetroHabits">RetroHabits ↗</a></h3>
+<p>Habits, assignments, and calendar.<br>One place to plan the day.</p>
+<p>A routine tracker bringing Canvas assignments, calendar events, and streaks together.</p>
+<sub><b>SWIFTUI &nbsp; / &nbsp; CALENDAR &nbsp; / &nbsp; iOS</b></sub>
+</td>
+</tr>
+</table>
 
-A SwiftUI project combining prescription-label scanning, OCR, and retrieval-augmented explanations.
-
-**SwiftUI · OCR · RAG · LLMs**  
-[Explore RxScanner ↗](https://github.com/siddhardhaanagani69-ship-it/RxScanner)
-
----
-
-### 02 &nbsp; RetroHabits
-**A more connected daily routine.**
-
-A native habit and routine tracker bringing Canvas assignments and iPhone calendar events into one agenda, alongside habit streaks.
-
-**SwiftUI · iOS · Calendar integration**  
-[Explore RetroHabits ↗](https://github.com/siddhardhaanagani69-ship-it/RetroHabits)
-
----
-
-### 03 &nbsp; Navigation
-**Finding a way forward.**
-
-Robot navigation and route-finding in Python.
-
-**Python · Robotics · Route planning**  
-[Explore Navigation ↗](https://github.com/siddhardhaanagani69-ship-it/navigation)
+**03 / ROBOTICS** &nbsp; [**Navigation ↗**](https://github.com/siddhardhaanagani69-ship-it/navigation)  
+Robot navigation and route-finding, built in Python.
 
 <br>
 
-## What I work with
+## Beyond the demos
 
-| Area | Tools & focus |
-| :--- | :--- |
-| **AI & vision** | Python, PyTorch, TensorFlow, OpenCV, YOLOv8, Faster R-CNN |
-| **Deployment** | OpenVINO, NVIDIA DeepStream |
-| **LLM systems** | LLM applications, retrieval-augmented generation |
-| **Apps & data** | Swift, SwiftUI, TypeScript, SQL, RapidFuzz |
+- **Factory safety, in real time.** Built a computer-vision pipeline with YOLOv8, Faster R-CNN, and PyTorch; optimized for edge deployment with OpenVINO.
+- **Research, published.** One IEEE paper, alongside reinforcement-learning agent benchmarking across multiple algorithms.
+- **Less manual work.** Automated record matching and reporting with Python and RapidFuzz, used daily by analysts at UH’s College of Medicine.
 
 <br>
 
-## Let's build something useful.
+## My toolkit
 
-Interested in **AI Engineer opportunities** and conversations about computer vision, LLM applications, and applied AI.
+**Models & vision** &nbsp; Python · PyTorch · TensorFlow · OpenCV  
+**Applied AI** &nbsp; LLMs · RAG · Reinforcement learning  
+**Edge & data** &nbsp; OpenVINO · NVIDIA DeepStream · SQL · RapidFuzz  
+**Apps & interfaces** &nbsp; Swift · SwiftUI · TypeScript
 
-[Email ↗](mailto:sanagani@cougarnet.uh.edu) &nbsp;·&nbsp; [LinkedIn ↗](https://linkedin.com/in/siddhardha-anagani)
+<br>
+
+---
+
+<p align="center">
+  <strong>Have an interesting problem to solve?</strong><br>
+  <a href="mailto:sanagani@cougarnet.uh.edu">Let’s talk ↗</a>
+</p>
