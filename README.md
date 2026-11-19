@@ -39,7 +39,11 @@
 <table>
 <tr>
 <td colspan="2" valign="top">
-<h3>🌿 Mokshavatha</h3>
+<h3>📈 <a href="https://github.com/siddhardhaanagani69-ship-it/Mahokshahvata">Mahokshahvata</a></h3>
+<p>An AI-powered stock analysis and simulated trading platform combining momentum rankings, LLM-based news sentiment, congressional trade tracking, and stock/options paper trading.</p>
+<p>A FastAPI dashboard backed by PostgreSQL, containerized with Docker and deployed on Google Kubernetes Engine with automated CI/CD and observability.</p>
+<p><b>Python · FastAPI · LLMs · PostgreSQL · Docker · GKE</b></p>
+<a href="https://github.com/siddhardhaanagani69-ship-it/Mahokshahvata">Explore the platform →</a>
 </td>
 </tr>
 <tr>
