@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+<title id="title">Wanted: Siddhardha Anagani, software engineer</title>
+<desc id="desc">An original manga-style wanted poster on warm paper, with bold ink lettering, comic speed lines, and a sailing ship wearing a straw-hat emblem.</desc>
+<defs>
+  <pattern id="dots" width="8" height="8" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#29251f" opacity=".12"/></pattern>
+  <pattern id="paper" width="90" height="70" patternUnits="userSpaceOnUse"><path d="M8 12h19m31 34h13M21 61h8" stroke="#b7a37f" stroke-width=".6" opacity=".3"/></pattern>
+</defs>
+<rect width="1280" height="420" fill="#f4e8ce"/>
+<rect width="1280" height="420" fill="url(#paper)"/>
+<path d="M13 11L1267 15 1264 406 16 410Z" fill="none" stroke="#24211d" stroke-width="5"/>
+<path d="M25 24L1253 27 1251 393 29 396Z" fill="none" stroke="#24211d" stroke-width="1.5"/>
+<path d="M910 27L869 393" stroke="#24211d" stroke-width="5"/>
+<path d="M914 29H1250V392H874Z" fill="url(#dots)"/>
+<g stroke="#24211d" fill="none" opacity=".55">
+<path d="M922 48l70 87m65-103 8 82m170-64-75 90m83 18-64 33m66 93-73-22M891 299l66-40M901 154l52 29"/>
+</g>
+<g fill="#24211d" font-family="Georgia,'Times New Roman',serif" text-anchor="middle">
+<text x="460" y="121" font-size="102" font-weight="900" letter-spacing="12">WANTED</text>
+<text x="460" y="160" font-size="18" font-weight="700" letter-spacing="7">FOR BUILDING THINGS THAT WORK</text>
+<path d="M75 184H836" stroke="#24211d" stroke-width="3"/>
+<text x="456" y="245" font-size="47" font-weight="700" letter-spacing="1">SIDDHARDHA ANAGANI</text>
+<text x="458" y="290" font-family="'Courier New',monospace" font-size="23" font-weight="700" letter-spacing="3">SOFTWARE ENGINEERING + APPLIED AI</text>
+<path d="M75 315H836" stroke="#24211d" stroke-width="3"/>
+<text x="458" y="358" font-family="'Courier New',monospace" font-size="17" font-weight="700" letter-spacing="2">HOUSTON, TX / M.ENG. DATA SCIENCE / MAY 2027</text>
+</g>
+<g stroke="#24211d" stroke-linejoin="round" stroke-linecap="round">
+<path d="M1067 104V292" stroke-width="6"/>
+<path d="M1057 123Q998 146 981 232L1055 226Z" fill="#fbf4e5" stroke-width="4"/>
+<path d="M1079 127Q1146 160 1160 239L1080 225Z" fill="#fbf4e5" stroke-width="4"/>
+<path d="M1058 100q35-28 60-3l-17 13-25-1Z" fill="#24211d" stroke-width="3"/>
+<path d="M965 263Q1060 286 1178 260L1145 305Q1067 333 1002 305Z" fill="#d4b582" stroke-width="5"/>
+<path d="M990 285Q1067 307 1161 282" fill="none" stroke-width="3"/>
+<path d="M989 315q20-13 40 0t40 0 40 0 40 0 40 0M951 338q20-13 40 0t40 0 40 0 40 0 40 0 40 0" fill="none" stroke-width="3"/>
+<circle cx="1021" cy="294" r="4" fill="#24211d"/><circle cx="1051" cy="301" r="4" fill="#24211d"/><circle cx="1082" cy="302" r="4" fill="#24211d"/>
+<ellipse cx="1119" cy="191" rx="20" ry="22" fill="#f4e8ce" stroke-width="3"/>
+<circle cx="1111" cy="191" r="4" fill="#24211d"/><circle cx="1127" cy="191" r="4" fill="#24211d"/>
+<path d="M1107 203h23m-17-1v6m6-6v7m6-7v5" fill="none" stroke-width="2"/>
+<path d="M1100 176q19-32 38 0" fill="#d4b582" stroke-width="3"/>
+<path d="M1094 177q25 7 49 0" fill="none" stroke-width="5"/>
+</g>
+<text x="1064" y="375" text-anchor="middle" fill="#24211d" font-family="'Courier New',monospace" font-size="14" font-weight="700" letter-spacing="2">THE NEXT CHAPTER STARTS HERE.</text>
+</svg>
