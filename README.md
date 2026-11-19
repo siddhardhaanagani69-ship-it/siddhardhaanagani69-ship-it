@@ -1,98 +1,95 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira%20Code&amp;weight=600&amp;size=27&amp;duration=3000&amp;pause=1200&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=850&amp;height=100&amp;lines=Hi%2C%20I'm%20Siddhardha%20Anagani%20%F0%9F%91%8B%3BAI%20%2F%20ML%20%C2%B7%20Computer%20Vision%20%C2%B7%20LLMs%3BM.Eng.%20Data%20Science%20%40%20UH%3BIEEE%20Published%20Researcher%3BBuilding%20with%20Python%20%26%20SwiftUI" width="100%" alt="Hi, I'm Siddhardha Anagani. AI and ML, computer vision, LLMs. M.Eng. Data Science at UH. IEEE published researcher." />
-</h1>
+<p align="center">
+  <img src="./assets/manga-header.svg" width="1280" height="420" alt="Wanted: Siddhardha Anagani. Software engineering and applied AI. Houston, TX. M.Eng. Data Science, expected May 2027." />
+</p>
+
+<h1 align="center">Siddhardha Anagani</h1>
+
+<p align="center"><strong>Software engineer building backend systems, native apps, and applied AI.</strong><br>Seeking software engineering internships and AI/ML opportunities.</p>
 
 <p align="center">
-  <b>Computer vision · Language models · Native apps</b><br>
-  Turning research and everyday problems into working software.
+  <a href="mailto:sidsidsid328@gmail.com">Email</a> &nbsp; / &nbsp;
+  <a href="https://linkedin.com/in/siddhardha-anagani">LinkedIn</a> &nbsp; / &nbsp;
+  <a href="https://siddhardhaanagani69-ship-it.github.io/">Portfolio</a> &nbsp; / &nbsp;
+  <a href="#the-project-log">Projects</a>
 </p>
 
-<p align="center">
-  <a href="mailto:sanagani@cougarnet.uh.edu"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Siddhardha" /></a>
-  <a href="https://linkedin.com/in/siddhardha-anagani"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
-  <a href="#projects"><img src="https://img.shields.io/badge/Explore_my_work-A78BFA?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore my projects" /></a>
-</p>
+## The captain's log
 
----
+I'm a **Data Science master's student at the University of Houston**, graduating in **May 2027**, and a Teaching Assistant supporting about **250 students across three courses**. Previously, I built software for UH's College of Medicine and deployed computer-vision systems at Vsigma IT Labs.
 
-<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b7452c-308d-4768-a9df-8c8e574a6e7a.gif" alt="Animated illustration of a developer coding at a desk" />
+I like the part where a prototype meets real users: debugging production issues, testing the edges, and making the next release better.
 
-### 👋 A little about me
-
-- 🎓 **M.Eng. Data Science** at the University of Houston
-- 🔍 Seeking full-time **AI Engineer** opportunities
-- 🧠 Exploring **LLM applications, RAG & reinforcement learning**
-- 👁️ Built real-time **factory safety detection** with YOLOv8, Faster R-CNN & PyTorch
-- ⚡ Optimized vision pipelines for the edge with **OpenVINO**
-- 📄 **1 published IEEE paper**
-- ⚙️ Built **Python + RapidFuzz** workflows used daily by analysts at UH’s College of Medicine
-- 🍎 Building native experiences with **SwiftUI**
-
-<br clear="both">
-
----
-
-<a id="projects"></a>
-
-### 🚀 Projects
-
-<table>
-<tr>
-<td colspan="2" valign="top">
-<h3>📈 <a href="https://github.com/siddhardhaanagani69-ship-it/Mahokshahvata">Mahokshahvata</a></h3>
-<p>An AI-powered stock analysis and simulated trading platform combining momentum rankings, LLM-based news sentiment, congressional trade tracking, and stock/options paper trading.</p>
-<p>A FastAPI dashboard backed by PostgreSQL, containerized with Docker and deployed on Google Kubernetes Engine with automated CI/CD and observability.</p>
-<p><b>Python · FastAPI · LLMs · PostgreSQL · Docker · GKE</b></p>
-<a href="https://github.com/siddhardhaanagani69-ship-it/Mahokshahvata">Explore the platform →</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>🧠 <a href="https://github.com/siddhardhaanagani69-ship-it/slm-training-eval">SLM Training &amp; Evaluation</a></h3>
-<p>A controlled training experiment on a 30M-parameter language model using TinyStories.</p>
-<p><b>55% lower validation perplexity</b> (17.84 → 7.98) after fixing the training setup, with the same 40M-token budget.</p>
-<p><b>PyTorch · Language modeling · Ablation studies</b></p>
-<a href="https://github.com/siddhardhaanagani69-ship-it/slm-training-eval">Explore the experiment →</a>
-</td>
-<td width="50%" valign="top">
-<h3>🗣️ <a href="https://github.com/siddhardhaanagani69-ship-it/hinglish-pos-eval">Hinglish POS Evaluation</a></h3>
-<p>Parameter-efficient part-of-speech tagging for code-mixed Hindi-English with HingRoBERTa adapters.</p>
-<p><b>89.86 macro-F1</b>, within 0.23 F1 of full fine-tuning while training only <b>0.86% of parameters</b>.</p>
-<p><b>NLP · Adapters · Model evaluation</b></p>
-<a href="https://github.com/siddhardhaanagani69-ship-it/hinglish-pos-eval">Explore the results →</a>
-</td>
-</tr>
-</table>
-
-### 🛠️ Tech stack & tools
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="46" height="46" alt="Python" title="Python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="46" height="46" alt="PyTorch" title="PyTorch" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="46" height="46" alt="TensorFlow" title="TensorFlow" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="46" height="46" alt="OpenCV" title="OpenCV" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="46" height="46" alt="Swift" title="Swift" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="46" height="46" alt="TypeScript" title="TypeScript" />
-</p>
-
-| Focus | What I work with |
+| In the field | What changed |
 | :--- | :--- |
-| **Computer vision** | YOLOv8 · Faster R-CNN · OpenCV · PyTorch · TensorFlow |
-| **Language models & learning** | LLM applications · RAG · Reinforcement learning |
-| **Edge deployment** | OpenVINO · NVIDIA DeepStream |
-| **Apps & data** | SwiftUI · Python · TypeScript · SQL · RapidFuzz |
+| **Software people use** | Built a Flask/PostgreSQL time clock for **30 faculty and students across 3 classes**, with login, audit logs, Excel export, and daily sync. |
+| **Cleaner institutional data** | Improved record-matching accuracy from **70% to 95-96%** with a Python/RapidFuzz pipeline. |
+| **Vision in production** | Developed and deployed factory safety detection across **30+ live camera feeds**, then resolved onsite reliability issues. |
 
-### 🔥 Contribution streak
+## The project log
 
-<p align="center">
-  <a href="https://github.com/siddhardhaanagani69-ship-it?tab=overview"><img src="https://streak-stats.demolab.com/?user=siddhardhaanagani69-ship-it&amp;theme=tokyonight&amp;hide_border=true&amp;ring=A78BFA&amp;fire=C4B5FD&amp;currStreakLabel=A78BFA" width="495" alt="Siddhardha's GitHub contribution streak" /></a>
-</p>
+### [Mahokshahvata](https://github.com/siddhardhaanagani69-ship-it/Mahokshahvata)
+**From one VM to Kubernetes.**
+
+A stock-analysis and **paper-trading** platform built in a team of two. It ranks **3,000 US stocks** by momentum, scores news with Claude, and runs a rules-based autopilot. All trading is simulated.
+
+- FastAPI backend with PostgreSQL, Docker images, and GitHub Actions CI/CD.
+- **2-4 autoscaled GKE replicas**, HTTPS load balancing, health checks, and rollback on deployment failure.
+- A database lock ensures only one replica runs the trading scheduler.
+
+`Python` `FastAPI` `Claude API` `PostgreSQL` `Docker` `GKE`
+
+[Explore the platform and architecture →](https://github.com/siddhardhaanagani69-ship-it/Mahokshahvata)
 
 ---
 
-<p align="center">
-  <b>Open to AI Engineer opportunities</b><br>
-  Interested in computer vision, applied AI, or a useful app idea?<br><br>
-  <a href="mailto:sanagani@cougarnet.uh.edu">Get in touch</a> ·
-  <a href="https://linkedin.com/in/siddhardha-anagani">Connect on LinkedIn</a>
-</p>
+### [SLM Training & Evaluation](https://github.com/siddhardhaanagani69-ship-it/slm-training-eval)
+**Same model. Same token budget. Better training.**
+
+A controlled experiment on a **30M-parameter language model** trained on TinyStories. Correcting the learning-rate schedule and update setup reduced validation perplexity by **55%: 17.84 to 7.98**, using the same **40M training tokens**.
+
+Evaluated on the full validation split, with a unigram baseline and TinyStories-33M as a reference. The reference has a different model size and training budget, so it is not an equal-budget comparison.
+
+`PyTorch` `Language modeling` `Training ablations` `Evaluation`
+
+[Read the experiment and reproduce the results →](https://github.com/siddhardhaanagani69-ship-it/slm-training-eval)
+
+---
+
+### [Hinglish POS Evaluation](https://github.com/siddhardhaanagani69-ship-it/hinglish-pos-eval)
+**How much of a model do you need to train?**
+
+Part-of-speech tagging for code-mixed Hindi-English with HingRoBERTa. Adapters reached **89.86 macro-F1**, within **0.23 F1** of full fine-tuning while training **0.86% of the parameters**.
+
+Compared configurations across three seeds, including a shuffled-feature control. Rule-based morphology helped the frozen encoder but added essentially nothing once adapters were trained.
+
+`NLP` `HingRoBERTa` `Parameter-efficient tuning` `Controlled evaluation`
+
+[Explore the evaluation and findings →](https://github.com/siddhardhaanagani69-ship-it/hinglish-pos-eval)
+
+### Side voyages
+
+| Project | What I built |
+| :--- | :--- |
+| [**Shift UI / Habits**](https://github.com/siddhardhaanagani69-ship-it/RetroHabits) | Native SwiftUI student assistant with a FastAPI backend. Combines Canvas, calendar, email, habits, and budget. The LLM parses schedule changes; a deterministic engine checks conflicts before the user accepts a plan. |
+| [**Precedent**](https://github.com/siddhardhaanagani69-ship-it/Precedent) | A hackathon multi-agent decision council with retrieval, three debate rounds, and moderator evidence checks. Returns an explicit low-evidence result when retrieval cannot support a verdict. |
+
+## What's in the toolkit
+
+**Languages** &nbsp; Python · JavaScript · TypeScript · SQL · Swift · HTML/CSS  
+**Backend & data** &nbsp; FastAPI · Flask · REST APIs · PostgreSQL · SQLAlchemy  
+**Shipping & reliability** &nbsp; Docker · Linux · GitHub Actions · GKE · Debugging · Software documentation  
+**Applied AI** &nbsp; PyTorch · YOLOv8 · OpenVINO · LLM workflows · RAG · Model evaluation  
+**Native apps** &nbsp; SwiftUI
+
+## Research & training
+
+- **IEEE CONIT 2023:** *Black and White Image Colorization Using Convolutional Neural Networks* (peer-reviewed).
+- **NVIDIA Deep Learning Institute:** Getting Started with Deep Learning (April 2026).
+- **M.Eng. Data Science**, University of Houston, expected May 2027. **GPA: 3.5/4.0**.
+- **B.Tech. Computer Science and Engineering**, Amrita Vishwa Vidyapeetham, 2024.
+
+---
+
+<p align="center"><strong>Every good voyage needs a crew.</strong><br>Looking for an intern who builds, debugs, documents, and follows through?<br><a href="mailto:sidsidsid328@gmail.com">Let's talk</a> · <a href="https://linkedin.com/in/siddhardha-anagani">Connect on LinkedIn</a></p>
+
+<sub>Original fan-made manga artwork inspired by One Piece. Project results are documented in the linked repositories; experience details reflect my November 2026 resume.</sub>
