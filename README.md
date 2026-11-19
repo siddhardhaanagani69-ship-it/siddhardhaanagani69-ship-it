@@ -1,71 +1,95 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira%20Code&amp;weight=600&amp;size=27&amp;duration=3000&amp;pause=1200&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=850&amp;height=100&amp;lines=Hi%2C%20I'm%20Siddhardha%20Anagani%20%F0%9F%91%8B%3BAI%20%2F%20ML%20%C2%B7%20Computer%20Vision%20%C2%B7%20LLMs%3BM.Eng.%20Data%20Science%20%40%20UH%3BIEEE%20Published%20Researcher%3BBuilding%20with%20Python%20%26%20SwiftUI" width="100%" alt="Hi, I'm Siddhardha Anagani. AI and ML, computer vision, LLMs. M.Eng. Data Science at UH. IEEE published researcher." />
+</h1>
+
 <p align="center">
-  <img src="./assets/keynote.svg" width="100%" alt="Siddhardha Anagani — AI meets everyday life. Computer vision, LLMs and RAG, native iOS." />
+  <b>Computer vision · Language models · Native apps</b><br>
+  Turning research and everyday problems into working software.
 </p>
 
 <p align="center">
-  <strong>AI / ML &nbsp;·&nbsp; SwiftUI &nbsp;·&nbsp; M.Eng. Data Science @ University of Houston</strong>
+  <a href="mailto:sanagani@cougarnet.uh.edu"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Siddhardha" /></a>
+  <a href="https://linkedin.com/in/siddhardha-anagani"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="#projects"><img src="https://img.shields.io/badge/Explore_my_work-A78BFA?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore my projects" /></a>
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/siddhardha-anagani">LinkedIn ↗</a> &nbsp;&nbsp;/&nbsp;&nbsp;
-  <a href="mailto:sanagani@cougarnet.uh.edu">Email ↗</a> &nbsp;&nbsp;/&nbsp;&nbsp;
-  <a href="#selected-work">Selected work ↓</a>
-</p>
+---
 
-<br>
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b7452c-308d-4768-a9df-8c8e574a6e7a.gif" alt="Animated illustration of a developer coding at a desk" />
 
-I’m **Siddhardha**. I build computer-vision systems, explore language models, and make native apps for everyday problems. My work spans factory safety detection, research, and tools used by university analysts.
+### 👋 A little about me
 
-**Currently:** exploring RAG and reinforcement learning · seeking full-time **AI Engineer** opportunities.
+- 🎓 **M.Eng. Data Science** at the University of Houston
+- 🔍 Seeking full-time **AI Engineer** opportunities
+- 🧠 Exploring **LLM applications, RAG & reinforcement learning**
+- 👁️ Built real-time **factory safety detection** with YOLOv8, Faster R-CNN & PyTorch
+- ⚡ Optimized vision pipelines for the edge with **OpenVINO**
+- 📄 **1 published IEEE paper**
+- ⚙️ Built **Python + RapidFuzz** workflows used daily by analysts at UH’s College of Medicine
+- 🍎 Building native experiences with **SwiftUI**
 
-<br>
+<br clear="both">
 
-## Selected work
+---
+
+<a id="projects"></a>
+
+### 🚀 Projects
 
 <table>
 <tr>
-<td valign="top" width="50%">
-<sub>01 / APPLIED AI</sub>
-<h3><a href="https://github.com/siddhardhaanagani69-ship-it/RxScanner">RxScanner ↗</a></h3>
-<p>Scan a prescription label.<br>Make the information easier to understand.</p>
-<p>A native app project connecting OCR with retrieval-augmented explanations.</p>
-<sub><b>SWIFTUI &nbsp; / &nbsp; OCR &nbsp; / &nbsp; RAG</b></sub>
+<td width="50%" valign="top">
+<h3>💊 <a href="https://github.com/siddhardhaanagani69-ship-it/RxScanner">RxScanner</a></h3>
+<p>Scan a prescription label and make its information easier to understand. A native app project connecting OCR with retrieval-augmented explanations.</p>
+<p><b>SwiftUI · OCR · RAG · LLMs</b></p>
+<a href="https://github.com/siddhardhaanagani69-ship-it/RxScanner">View project →</a>
 </td>
-<td valign="top" width="50%">
-<sub>02 / NATIVE iOS</sub>
-<h3><a href="https://github.com/siddhardhaanagani69-ship-it/RetroHabits">RetroHabits ↗</a></h3>
-<p>Habits, assignments, and calendar.<br>One place to plan the day.</p>
-<p>A routine tracker bringing Canvas assignments, calendar events, and streaks together.</p>
-<sub><b>SWIFTUI &nbsp; / &nbsp; CALENDAR &nbsp; / &nbsp; iOS</b></sub>
+<td width="50%" valign="top">
+<h3>✅ <a href="https://github.com/siddhardhaanagani69-ship-it/RetroHabits">RetroHabits</a></h3>
+<p>Habits, routines, Canvas assignments, and iPhone calendar events in one agenda — with streaks to keep progress visible.</p>
+<p><b>SwiftUI · iOS · Calendar integration</b></p>
+<a href="https://github.com/siddhardhaanagani69-ship-it/RetroHabits">View project →</a>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+<h3>🧭 <a href="https://github.com/siddhardhaanagani69-ship-it/navigation">Navigation</a></h3>
+<p>Robot navigation and route-finding built in Python.</p>
+<p><b>Python · Robotics · Route planning</b></p>
+<a href="https://github.com/siddhardhaanagani69-ship-it/navigation">View project →</a>
 </td>
 </tr>
 </table>
 
-**03 / ROBOTICS** &nbsp; [**Navigation ↗**](https://github.com/siddhardhaanagani69-ship-it/navigation)  
-Robot navigation and route-finding, built in Python.
+### 🛠️ Tech stack & tools
 
-<br>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="46" height="46" alt="Python" title="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="46" height="46" alt="PyTorch" title="PyTorch" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="46" height="46" alt="TensorFlow" title="TensorFlow" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="46" height="46" alt="OpenCV" title="OpenCV" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="46" height="46" alt="Swift" title="Swift" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="46" height="46" alt="TypeScript" title="TypeScript" />
+</p>
 
-## Beyond the demos
+| Focus | What I work with |
+| :--- | :--- |
+| **Computer vision** | YOLOv8 · Faster R-CNN · OpenCV · PyTorch · TensorFlow |
+| **Language models & learning** | LLM applications · RAG · Reinforcement learning |
+| **Edge deployment** | OpenVINO · NVIDIA DeepStream |
+| **Apps & data** | SwiftUI · Python · TypeScript · SQL · RapidFuzz |
 
-- **Factory safety, in real time.** Built a computer-vision pipeline with YOLOv8, Faster R-CNN, and PyTorch; optimized for edge deployment with OpenVINO.
-- **Research, published.** One IEEE paper, alongside reinforcement-learning agent benchmarking across multiple algorithms.
-- **Less manual work.** Automated record matching and reporting with Python and RapidFuzz, used daily by analysts at UH’s College of Medicine.
+### 🔥 Contribution streak
 
-<br>
-
-## My toolkit
-
-**Models & vision** &nbsp; Python · PyTorch · TensorFlow · OpenCV  
-**Applied AI** &nbsp; LLMs · RAG · Reinforcement learning  
-**Edge & data** &nbsp; OpenVINO · NVIDIA DeepStream · SQL · RapidFuzz  
-**Apps & interfaces** &nbsp; Swift · SwiftUI · TypeScript
-
-<br>
+<p align="center">
+  <a href="https://github.com/siddhardhaanagani69-ship-it?tab=overview"><img src="https://streak-stats.demolab.com/?user=siddhardhaanagani69-ship-it&amp;theme=tokyonight&amp;hide_border=true&amp;ring=A78BFA&amp;fire=C4B5FD&amp;currStreakLabel=A78BFA" width="495" alt="Siddhardha's GitHub contribution streak" /></a>
+</p>
 
 ---
 
 <p align="center">
-  <strong>Have an interesting problem to solve?</strong><br>
-  <a href="mailto:sanagani@cougarnet.uh.edu">Let’s talk ↗</a>
+  <b>Open to AI Engineer opportunities</b><br>
+  Interested in computer vision, applied AI, or a useful app idea?<br><br>
+  <a href="mailto:sanagani@cougarnet.uh.edu">Get in touch</a> ·
+  <a href="https://linkedin.com/in/siddhardha-anagani">Connect on LinkedIn</a>
 </p>
