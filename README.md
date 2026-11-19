@@ -38,25 +38,24 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
-<h3>💊 <a href="https://github.com/siddhardhaanagani69-ship-it/RxScanner">RxScanner</a></h3>
-<p>Scan a prescription label and make its information easier to understand. A native app project connecting OCR with retrieval-augmented explanations.</p>
-<p><b>SwiftUI · OCR · RAG · LLMs</b></p>
-<a href="https://github.com/siddhardhaanagani69-ship-it/RxScanner">View project →</a>
-</td>
-<td width="50%" valign="top">
-<h3>✅ <a href="https://github.com/siddhardhaanagani69-ship-it/RetroHabits">RetroHabits</a></h3>
-<p>Habits, routines, Canvas assignments, and iPhone calendar events in one agenda — with streaks to keep progress visible.</p>
-<p><b>SwiftUI · iOS · Calendar integration</b></p>
-<a href="https://github.com/siddhardhaanagani69-ship-it/RetroHabits">View project →</a>
+<td colspan="2" valign="top">
+<h3>🌿 Mokshavatha</h3>
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
-<h3>🧭 <a href="https://github.com/siddhardhaanagani69-ship-it/navigation">Navigation</a></h3>
-<p>Robot navigation and route-finding built in Python.</p>
-<p><b>Python · Robotics · Route planning</b></p>
-<a href="https://github.com/siddhardhaanagani69-ship-it/navigation">View project →</a>
+<td width="50%" valign="top">
+<h3>🧠 <a href="https://github.com/siddhardhaanagani69-ship-it/slm-training-eval">SLM Training &amp; Evaluation</a></h3>
+<p>A controlled training experiment on a 30M-parameter language model using TinyStories.</p>
+<p><b>55% lower validation perplexity</b> (17.84 → 7.98) after fixing the training setup, with the same 40M-token budget.</p>
+<p><b>PyTorch · Language modeling · Ablation studies</b></p>
+<a href="https://github.com/siddhardhaanagani69-ship-it/slm-training-eval">Explore the experiment →</a>
+</td>
+<td width="50%" valign="top">
+<h3>🗣️ <a href="https://github.com/siddhardhaanagani69-ship-it/hinglish-pos-eval">Hinglish POS Evaluation</a></h3>
+<p>Parameter-efficient part-of-speech tagging for code-mixed Hindi-English with HingRoBERTa adapters.</p>
+<p><b>89.86 macro-F1</b>, within 0.23 F1 of full fine-tuning while training only <b>0.86% of parameters</b>.</p>
+<p><b>NLP · Adapters · Model evaluation</b></p>
+<a href="https://github.com/siddhardhaanagani69-ship-it/hinglish-pos-eval">Explore the results →</a>
 </td>
 </tr>
 </table>
